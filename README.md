@@ -1,4 +1,4 @@
-# learn_cfr
+# learn-cfr
 Messing around with counterfactual regret minimization (rock, paper, scissors in CLI) 
 
 ## Inspiration 
